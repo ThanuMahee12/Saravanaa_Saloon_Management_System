@@ -1,0 +1,55 @@
+
+
+h1,h2,h3{
+    font-family:roboto;
+    color: rgb(86, 19, 126);
+}
+h4,h5,h6{
+    font-family:roboto;
+    color: #4d1212;
+}
+.button{
+    text-decoration: none;
+    cursor: pointer;
+    color:white;
+}
+aside{
+    background-color: rgba(107, 3, 115, 0.3);
+
+}
+.sidelink{
+    text-decoration: none;
+    color:#000;
+    font-size: 1.2rem;
+    text-align: justify;
+    font-family: "Arial",sans-serif;
+}
+.sidelink:hover{
+    border-bottom: 2px ridge rgba(97, 3, 105, 0.7);
+}
+.sideitem{
+    padding: 15px 5px;
+}
+.text{
+    text-align:center;      
+    
+}
+
+#section{
+  padding:1px 16px;
+  height: 1000px;
+  font-family:cambria; 
+}
+
+.content1{
+    margin-top:30px;
+    height:auto;
+    width:90%;
+    margin-left: auto; 
+    margin-right: auto;
+}
+
+
+
+
+
